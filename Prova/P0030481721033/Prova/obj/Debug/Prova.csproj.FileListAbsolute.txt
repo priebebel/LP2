@@ -1,0 +1,30 @@
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\User 1\Documents\C#.NET\LP2\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\bin\Debug\Prova.exe.config
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\bin\Debug\Prova.exe
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\bin\Debug\Prova.pdb
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.exe
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481921035\Prova\obj\Debug\Prova.pdb
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\bin\Debug\Prova.exe.config
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\bin\Debug\Prova.exe
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\bin\Debug\Prova.pdb
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.Form1.resources
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.Properties.Resources.resources
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.exe
+C:\Users\Administrador\Desktop\FATEC\LP2\flavio_prova\LP2-master\Prova\P0030481721033\Prova\obj\Debug\Prova.pdb
